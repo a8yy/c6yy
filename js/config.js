@@ -12,9 +12,9 @@ const PASSWORD_CONFIG = {
 
 // 网站信息配置
 const SITE_CONFIG = {
-    name: 'F8电影网',
-    url: 'https://f8yy.com',
-    description: '免费在线视频搜索与观看平台',
+    name: '私人影院',
+    url: 'https://c6yy.com',
+    description: '私人影院免费在线视频搜索平台',
     logo: 'image/logo.png',
     version: '1.0.3'
 };
@@ -131,7 +131,7 @@ const API_SITES = {
     // 而作为观众无辜吗？毫无疑问，他们促成了黄色产业链的再生产。
     // 我们提供此警告，是希望您能认清这些内容的本质——它们是压迫和奴役的工具，而非娱乐。
     // ckzy: {
-    //     api: 'https://www.ckzy1.com',
+    //    api: 'https://www.ckzy1.com',
     //     name: 'CK资源',
     //     adult: true
     // },
